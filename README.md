@@ -1,18 +1,37 @@
-# Dev_pro
+# Mimo Project Collection
 
-# Interactive Bot Script
+This repository contains a collection of projects developed through Mimo, covering various programming concepts and applications. Each project demonstrates unique functionality and practical skills in coding, ranging from games to utilities.
 
-## Description
-This Python script is a simple interactive bot that engages the user with a few friendly questions. It collects basic information from the user, such as their name, age, and favorite color, and responds with personalized messages.
+## Projects
 
-## Features
-- Greets the user and asks for their name.
-- Asks the user for their age and calculates the age difference with the bot (who is 3 years old).
-- Asks the user for their favorite color and responds with a comment on the color.
+### 1. Library
+A simple library management system where users can keep track of books, authors, and categories. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations.
 
-## Usage
-1. Make sure you have Python installed (version 3 or higher).
-2. Run the script in your terminal or preferred IDE.
-3. Follow the on-screen prompts to interact with the bot.
+### 2. Transaction Analyzer
+An application that analyzes financial transactions, helping users understand their spending patterns and categorize expenses. This project includes basic data handling and categorization logic.
 
-## Sample Interaction
+### 3. Draw a Card
+A simple program that simulates drawing a card from a deck. Useful for learning about randomization and data handling in programming.
+
+### 4. Food Order System
+An interactive food ordering system that allows users to select items from a menu and calculate the total cost. This project highlights user input handling and basic calculations.
+
+### 5. ToDo List
+A to-do list application where users can add, edit, and delete tasks. This project is great for practicing data management and user interaction.
+
+### 6. Rock, Paper, Scissors
+A digital version of the classic Rock, Paper, Scissors game where users can play against the computer. This project introduces conditionals and random choice generation.
+
+### 7. My Bot Project
+A simple bot that interacts with users based on predefined inputs. This project showcases basic AI and interaction logic.
+
+ Getting Started
+
+### Prerequisites
+- Python 3.x installed on your system (for Python-based projects).
+- Basic understanding of Python programming and command-line usage.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/mimo-project-collection.git
